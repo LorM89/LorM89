@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 ___
 
 🔭 My favorite tools:
-|[![Python](https://github.com/LorM89/LorM89/blob/main/assets/python.png)]
- | JavaScript | Django | React |
+|![Python](https://github.com/LorM89/LorM89/blob/main/assets/python.png)
+|![JavaScript](https://github.com/LorM89/LorM89/blob/main/assets/javascript.svg)
+|![Django] | React |
 | ----- | ----- | ----- | -----|
 
 🌱 Currently learning:
