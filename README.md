@@ -18,11 +18,11 @@ ___
 |![Python](https://github.com/LorM89/LorM89/blob/main/assets/python.png)
 |![JavaScript](https://github.com/LorM89/LorM89/blob/main/assets/javascript.svg)
 |![Django] | React |
- ![]("https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white")
+|![github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white)
 | ----- | ----- | ----- | -----|
 
 🌱 Currently learning:
-| TypeScript | Angular | Flask |
+| TypeSript | Angular | Flask |
 
 👯 Looking to collaborate on:
 | Open Source | Software and videogame Development | Testing |
