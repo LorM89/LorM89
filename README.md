@@ -16,7 +16,7 @@ ___
 
 🔭 My favorite tools:
 |![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=Blue) |![JavaScript](https://img.shields.io/badge/-JavaScript-000001?style=flat-square&logo=JavaScript&logoColor=Green) |![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=Django&logoColor=White) |![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=Blue)|![C++](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=C++&logoColor=Blue)|
-| ------ | ------ | ------ | ------ |
+| ------ | ------ | ------ | ------ | ------ |
 
 🌱 Currently learning:
 |![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=Blue)|![Angular](https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Angular&logoColor=Blue)|![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=Blue)|
