@@ -1,4 +1,7 @@
-### Profile
+| ###Profile | ![Alt Text](https://media.giphy.com/media/kjFyZgX4rSZby/giphy.gif) |
+| ------ | ------ |
+| 1 | Cosas | un gif 
+
 ___
 
 
@@ -21,4 +24,3 @@ Here are some ideas to get you started:
 
 
 
-![Alt Text](https://media.giphy.com/media/kjFyZgX4rSZby/giphy.gif)
