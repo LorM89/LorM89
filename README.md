@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Profile</h3>
+<h3>Profile</h3> <img src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif"/>
 
 ___
 
