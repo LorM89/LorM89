@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on web apps with Django and React-native
+|??||sdsdsds|
+- 🔭 I’m currently working on web apps with Django and React-native|hola|
 - 🌱 I’m currently learning JavaScript, APIs, REST and GraphQL
 - 👯 I’m looking to collaborate on open source projects for a better web!
 - ⚡ Fun fact: There are none. Life is bleak.
