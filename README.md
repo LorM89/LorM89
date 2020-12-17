@@ -18,7 +18,7 @@ ___
 |![Python](https://github.com/LorM89/LorM89/blob/main/assets/python.png)
 |![JavaScript](https://github.com/LorM89/LorM89/blob/main/assets/javascript.svg)
 |![Django] | React |
-|![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=Blue)
+|![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=White)
 | ----- | ----- | ----- | -----|
 
 🌱 Currently learning:
