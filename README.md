@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=lorm89&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lorm89">
 </p>
 
 </details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorm89)](https://github.com/lorm89/github-readme-stats)
