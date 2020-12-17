@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 ___
 
 🔭 My favorite tools:
-
-| Python | JavaScript | Django | React |
+- Python | JavaScript | Django | React |
 
 🌱 Currently learning:
 | TypeScript | Angular | Flask |
 
-- 👯 Looking to collaborate on:
+👯 Looking to collaborate on:
 | Open Source | Software and videogame Development | Testing |
 
-- ⚡ Fun fact: 
+⚡ Fun fact: 
 | There are none. Life is bleak. |
 
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/14844852/lorm)
