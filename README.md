@@ -17,7 +17,7 @@ ___
 🔭 My favorite tools:
 |![Python](https://github.com/LorM89/LorM89/blob/main/assets/python.png)
 |![JavaScript](https://github.com/LorM89/LorM89/blob/main/assets/javascript.svg)
-|![Django](https://img.shields.io/badge/-Django-F44D27?style=flat-square&logo=Django&logoColor=White)
+|![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=Django&logoColor=White)
 | ----- | ----- | ----- | -----|
 | React |
 |![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=White)
