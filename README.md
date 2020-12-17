@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|??||sdsdsds|
-- 🔭 I’m currently working on web apps with Django and React-native|hola|
+
+- 🔭 I’m currently working on web apps with Django and React-native
 - 🌱 I’m currently learning JavaScript, APIs, REST and GraphQL
 - 👯 I’m looking to collaborate on open source projects for a better web!
 - ⚡ Fun fact: There are none. Life is bleak.
 
+[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/14844852/lorm)
 
 
