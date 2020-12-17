@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 ___
 
 🔭 My favorite tools:
-- Python | JavaScript | Django | React |
+|Python | JavaScript | Django | React |
+| ----- | ----- | ----- | -----|
 
 🌱 Currently learning:
 | TypeScript | Angular | Flask |
