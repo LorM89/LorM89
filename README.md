@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>Profile</h3> 
-![gif](https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif =200x))
+![gif](https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif =200x)
 
 ___
 
