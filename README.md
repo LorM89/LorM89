@@ -10,11 +10,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Profile 
+<h3>Profile</h3>
 
 ___
 
-| 🔭 My favorite tools: | 
+🔭 My favorite tools: |
 | Python | JavaScript | Django | React |
 
 🌱 Currently learning:
