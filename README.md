@@ -19,10 +19,8 @@ ___
 | ------ | ------ | ------ | ------ |
 
 🌱 Currently learning:
-|![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=Blue)
-| |![Angular](https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Angular&logoColor=Blue)
-| |![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=Blue)|
-| ----- | ----- | ----- | -----|
+|![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=Blue)|![Angular](https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Angular&logoColor=Blue)|![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=Blue)|
+| ----- | ----- | ----- |
 
 
 👯 Looking to collaborate on:
