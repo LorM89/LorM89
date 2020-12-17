@@ -24,7 +24,7 @@ ___
 
 
 👯 Looking to collaborate on:
-|![OpenSource](https://img.shields.io/badge/-Opensource-181717?style=flat-square&logo=opensource&logoColor=Blue) |
+|![OpenSource](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=Open$20Source&logoColor=Blue) |
 
 ⚡ Fun fact: 
 | There are none. Life is bleak. |
