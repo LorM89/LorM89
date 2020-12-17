@@ -1,10 +1,7 @@
-### Hi there 👋
+### So you found my Readme...
 
 <!--
-**LorM89/LorM89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on web apps with Django and React-native
+- 🌱 I’m currently learning JavaScript, APIs, REST and GraphQL
+- 👯 I’m looking to collaborate on open source projects for a better web!
+- ⚡ Fun fact: There are none. Life is bleak.
+
+
+
 ![Alt Text](https://media.giphy.com/media/kjFyZgX4rSZby/giphy.gif)
