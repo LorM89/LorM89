@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 ___
 
 🔭 My favorite tools:
-|![Python](https://github.com/LorM89/LorM89/blob/main/assets/python.png)
-|![JavaScript](https://github.com/LorM89/LorM89/blob/main/assets/javascript.svg)
+|![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=White)
+|![JavaScript](https://img.shields.io/badge/-Python-000001?style=flat-square&logo=Python&logoColor=White)
 |![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=Django&logoColor=White)
-| ----- | ----- | ----- | -----|
-| React |
+|![React]((https://img.shields.io/badge/-React-000000?style=flat-square&logo=React&logoColor=White)
 |![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=White)
 | ----- | ----- | ----- | -----|
 
