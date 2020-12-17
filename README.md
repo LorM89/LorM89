@@ -1,11 +1,3 @@
-| ###Profile | ![Alt Text](https://media.giphy.com/media/kjFyZgX4rSZby/giphy.gif) |
-| ------ | ------ |
-| 1 |![](https://github.com/LorM89/LorM89/blob/main/assets/azure.png) | 
-| zero | ![](https://github.com/LorM89/LorM89/blob/main/assets/zerogiff.gif) |
-
-___
-
-
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
@@ -18,10 +10,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on web apps with Django and React-native
-- 🌱 I’m currently learning JavaScript, APIs, REST and GraphQL
-- 👯 I’m looking to collaborate on open source projects for a better web!
-- ⚡ Fun fact: There are none. Life is bleak.
+
+| ###Profile | 
+
+___
+
+🔭 My favorite tools:
+| Python | JavaScript | Django | React |
+
+🌱 Currently learning:
+| TypeScript | Angular | Flask |
+
+- 👯 Looking to collaborate on:
+| Open Source | Software and videogame Development | Testing |
+
+- ⚡ Fun fact: 
+| There are none. Life is bleak. |
 
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/14844852/lorm)
 
