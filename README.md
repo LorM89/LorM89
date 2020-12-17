@@ -21,7 +21,7 @@ ___
   <img src="https://img.shields.io/badge/-C++-181717?style=flat-square&logo=C++&logoColor=Blue"/>
   <img src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=Django&logoColor=White"/>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=White"/>
+  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
 🌱 Currently learning:
