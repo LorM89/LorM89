@@ -1,6 +1,6 @@
 | ###Profile | ![Alt Text](https://media.giphy.com/media/kjFyZgX4rSZby/giphy.gif) |
 | ------ | ------ |
-| 1 |![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png) | 
+| 1 |![](https://github.com/LorM89/LorM89/blob/main/assets/azure.png) | 
 
 ___
 
