@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 ___
 
 🔭 My favorite tools:
-|![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=White)
-|![JavaScript](https://img.shields.io/badge/-JavaScript-000001?style=flat-square&logo=JavaScript&logoColor=White)
+|![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=Blue)
+|![JavaScript](https://img.shields.io/badge/-JavaScript-000001?style=flat-square&logo=JavaScript&logoColor=Green)
 |![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=Django&logoColor=White)
-|![React]((https://img.shields.io/badge/-Reactjs-000000?style=flat-square&logo=Reactjs&logoColor=White)
-|![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=White)
+|![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=Blue)
 | ----- | ----- | ----- | -----|
 
 🌱 Currently learning:
-| TypeSript | Angular | Flask |
+|![TypeScript](https://img.shields.io/badge/-TypeScript-?style=flat-square&logo=TypeScript&logoColor=Blue)
+| Angular | Flask |
 
 👯 Looking to collaborate on:
 | Open Source | Software and videogame Development | Testing |
