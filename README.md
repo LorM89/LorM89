@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/14844852/lorm)
 
-<details open>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lorm89&show_icons=true&theme=radical&line_height=27">
-</p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LorM89)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LorM89)](https://github.com/anuraghazra/github-readme-stats)
