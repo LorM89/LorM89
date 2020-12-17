@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 ___
 
 🔭 My favorite tools:
-|Python | JavaScript | Django | React |
+|[![Python](https://github.com/LorM89/LorM89/blob/main/assets/python.png)]
+ | JavaScript | Django | React |
 | ----- | ----- | ----- | -----|
 
 🌱 Currently learning:
@@ -27,7 +28,6 @@ ___
 ⚡ Fun fact: 
 | There are none. Life is bleak. |
 
-[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/14844852/lorm)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LorM89)](https://github.com/anuraghazra/github-readme-stats)
 
