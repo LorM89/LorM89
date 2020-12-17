@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ___
 
 🔭 My favorite tools:
-|![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=Blue) |![JavaScript](https://img.shields.io/badge/-JavaScript-000001?style=flat-square&logo=JavaScript&logoColor=Green) |![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=Django&logoColor=White) |![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=Blue) |
+|![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=Blue) |![JavaScript](https://img.shields.io/badge/-JavaScript-000001?style=flat-square&logo=JavaScript&logoColor=Green) |![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=Django&logoColor=White) |![github](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=Blue) |![C++](https://img.shields.io/badge/-C++-181717?style=flat-square&logo=C++&logoColor=Blue) |
 | ------ | ------ | ------ | ------ |
 
 🌱 Currently learning:
@@ -24,7 +24,7 @@ ___
 
 
 👯 Looking to collaborate on:
-| Open Source | Software and videogame Development | Testing |
+|![OpenSource](https://img.shields.io/badge/-Opensource-181717?style=flat-square&logo=opensource&logoColor=Blue) |
 
 ⚡ Fun fact: 
 | There are none. Life is bleak. |
