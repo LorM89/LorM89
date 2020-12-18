@@ -2,10 +2,10 @@
 
 <h1 align="center"> Profile </h1>
 
-<img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="30%"/> 
-Currently working on __web apps and APIs__
-Currently learning __React, Express, MongoDB and new frameworks!__
-Want to contribute to __Open Source, Web Development__
+<img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="25%"/> 
+Currently working on __web apps and APIs  
+Currently learning __React, Express, MongoDB and new frameworks!  
+Want to contribute to __Open Source, Web Development  
 Here is some more
 
 ____
