@@ -2,13 +2,13 @@
 
 <h1 align="center"> Profile </h1>
 
-<img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="50%"/> 
-Currently working on web development and APIs with Django and Flask
-Currently learning React, Express, MongoDB and new frameworks!
-Would love to learn: Audio and image processing, Machine learning
+<img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="30%"/> 
+Currently working on __web apps and APIs__
+Currently learning __React, Express, MongoDB and new frameworks!__
+Want to contribute to __Open Source, Web Development__
 Here is some more
-and then some more
 
+____
 
 <p> 
   Some of the technologies I use:
@@ -18,14 +18,6 @@ and then some more
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
     <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-  </p>
-</p>
-
-
-<p> 
-  I'm interested in contributing to: 
-  <p>
-  OPEN SOURCE, WEB DEV, VIDEO GAMES
   </p>
 </p>
 
