@@ -1,12 +1,12 @@
-<---README--->
+<!---README--->
 
 <h1 align="center"> Profile </h1>
-<img src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="250" height="250" align="center"/>
+<p><img src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="250" height="250" align="center"/></p>
 
-<p>
-  I am currently learning::::::
-  And working on .....
-</p>
+<p> I am currently learning:::::: </p>
+<p> And working on ..... </p>
+<p> .......stuff ..... </p>
+<p> and some things too </p>
 
 <p>
  <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -22,8 +22,8 @@
 
 
 <p> 👯 Communities: </p>
-- <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-- <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<p> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </p>
+<p> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </p>
 
 a LINEEEEE
 ____
