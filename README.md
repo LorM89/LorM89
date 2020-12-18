@@ -3,7 +3,6 @@
 <p align="center">
  <img src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="200" height="200"/> 
 </p>
-____
 
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -17,6 +16,8 @@ ____
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+<!--A simple header
+
 <p align="left">
   - :hammer: Actively working on web applications and APIs using Python, Django, ResT and GraphQL;
   - 🌱 Currently learning Express, Node, MongoDB; 
@@ -24,7 +25,7 @@ ____
   - 🤔 I’m looking for help with Design Pattern 😭; 
 
 </p>
-
+-->
 
 
 ____
