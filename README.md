@@ -2,14 +2,11 @@
 
 <h1 align="center"> Profile </h1>
 
-<p> 
-  <img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif"/>
-  <p> 
-    Currently working on web development and APIs with Django and Flask
-    Currently learning React, Express, MongoDB and new frameworks!
-    Would love to learn: Audio and image processing, Machine learning
-   </p>
-</p>
+<img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif"/> 
+Currently working on web development and APIs with Django and Flask
+Currently learning React, Express, MongoDB and new frameworks!
+Would love to learn: Audio and image processing, Machine learning
+
 
 <p> 
   Some of the technologies I use:
