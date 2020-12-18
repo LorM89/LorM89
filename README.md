@@ -1,31 +1,10 @@
 <!---README--->
 
 <h1 align="center"> Profile </h1>
-<p>
-  <img align="right" style="float" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="30%"/> <br>
-  <p>
-    \
-    \
-    \
-    \
-    Currently working on **web apps and APIs** <br>
-    Currently learning **React, Express, MongoDB!** <br>  
-    Want to contribute to **Open Source, Web Development** <br>
-  </p>
-</p>
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+| Currently working on **web apps and APIs** <br> Currently learning **React, Express, MongoDB!** <br> Want to contribute to **Open Source, Web Development** <br> | <img align="right" style="float" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="30%"/> |
+| ------ | ------ |
+
 ____
 
 <p> 
