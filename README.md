@@ -7,6 +7,7 @@ ___
 
 <p align="left">
   - :hammer: Actively working on web applications and APIs using Python, Django, ResT and GraphQL;
+</p>
   - 🌱 Currently learning Express, Node, MongoDB; 
   - 👯 I’m looking to collaborate on open source projects and learn about new technologies;
   - 🤔 I’m looking for help with Design Pattern 😭; 
