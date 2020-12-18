@@ -6,6 +6,7 @@
 -->
 
 <p>
+ <h1> working with </h1>
   <img src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="400" height="400" align="right"/> 
   <p>
    <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -21,27 +22,26 @@
 </p>
 
 <!--A simple header
-
 <p align="left">
   - :hammer: Actively working on web applications and APIs using Python, Django, ResT and GraphQL;
   - 🌱 Currently learning Express, Node, MongoDB; 
   - 👯 I’m looking to collaborate on open source projects and learn about new technologies;
   - 🤔 I’m looking for help with Design Pattern 😭; 
-
 </p>
 -->
 
 
 ____
+
 🌱 Currently learning:
-|![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=Blue)|![Angular](https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Angular&logoColor=Blue)|![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=Blue)|
+|![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=Blue)|![Angular](https://img.shields.io/badge/-Angular-000000?style=flat-square&logo=Angular&logoColor=Blue)|![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=Blue)|![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=Blue)|![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=Blue)|
 | ----- | ----- | ----- |
 
 
-👯 Looking to collaborate on:
-|![OpenSource](https://img.shields.io/badge/-Open%20Source-181717?style=flat-square&logo=Open$20Source&logoColor=Blue) |
-
-
+👯 Communities:
+- stack overflow
+- code challenges
+- free code camp
 
 
 <!-- Any image aligned to the right. Beware the width -->
