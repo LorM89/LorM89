@@ -1,6 +1,6 @@
 <!--A simple header-->
 <h3>Profile</h3> 
-<p align-center>
+<p align="center">
  <img src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="200" height="200"/> 
 </p>
 
