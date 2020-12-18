@@ -2,13 +2,19 @@
 
 <h1 align="center"> Profile </h1>
 <p>
-  <img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="25%"/> <br>
+  <img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="40%"/> <br>
   <p>
-    Currently working on __web apps and APIs__ <br>
-    Currently learning __React, Express, MongoDB!__ <br>  
-    Want to contribute to __Open Source, Web Development__ <br>
+    Currently working on **web apps and APIs** <br>
+    Currently learning **React, Express, MongoDB!** <br>  
+    Want to contribute to **Open Source, Web Development** <br>
   </p>
 </p>
+
+
+
+
+
+
 
 ____
 
