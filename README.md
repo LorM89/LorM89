@@ -2,10 +2,12 @@
 
 <h1 align="center"> Profile </h1>
 
-<img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif"/> 
+<img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="50%"/> 
 Currently working on web development and APIs with Django and Flask
 Currently learning React, Express, MongoDB and new frameworks!
 Would love to learn: Audio and image processing, Machine learning
+Here is some more
+and then some more
 
 
 <p> 
