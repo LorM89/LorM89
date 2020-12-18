@@ -6,8 +6,8 @@
 
 ___
 <!--2nd gif-->
-<h2 align="right">🔭 My favorite tools: </h2>
 <p align="right">
+  🔭 My favorite tools:
   <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=Blue"/>
   <img src="https://img.shields.io/badge/-JavaScript-000001?style=flat-square&logo=JavaScript&logoColor=Green"/>
   <img src="https://img.shields.io/badge/-C++-181717?style=flat-square&logo=C++&logoColor=Blue"/>
