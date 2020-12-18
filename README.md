@@ -1,20 +1,13 @@
 <!---README--->
 
 <h1 align="center"> Profile </h1>
-
-____
-
 <p> 
   <img align="right" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="400" height="400"/>
   <p> 
-    Currently working on web development and APIs with Django and Flask
-  </p>
-   <p> 
-    Currently learning React, Express, MongoDB
-  </p>
-   <p> 
+    Currently working on web development and APIs with Django and Flask \n
+    Currently learning React, Express, MongoDB 
     Would love to learn: Audio and image processing, Machine learning
-  </p>
+   </p>
 </p>
 
 <p> 
