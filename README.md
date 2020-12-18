@@ -1,12 +1,12 @@
-<!--A simple header-->
+<!--A simple header
 <h3>Profile</h3> 
 <p align="center">
  <img src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="200" height="200"/> 
 </p>
-
+-->
 
 <p>
-  <img src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="200" height="200" align="right"/> 
+  <img src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="400" height="400" align="right"/> 
   <p>
    <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
    <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
