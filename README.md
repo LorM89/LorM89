@@ -12,17 +12,16 @@ ___
 
 <h3 align="left"> My toolset </h3>
 <h3 align="left">
-  <img alt="Django" src="https://img.shields.io/badge/-Django-0c4d06?style=flat&logo=django" /> 
-  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-960505?style=flat&logo=ruby" /> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql" /> 
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-d4531b?style=flat&logo=postman&logoColor=white" /> <br />
-  <img alt="Atom" src="https://img.shields.io/badge/-Atom-0c4d06?style=flat&logo=atom" /> 
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"/> 
-  <img alt="git" src="https://img.shields.io/badge/-Git-13aa52?style=flat&logo=git&logoColor=white" /> 
-  <img alt="Debian" src="https://img.shields.io/badge/-Debian-9f0000?style=flat&logo=debian" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-2729c1?&logo=c%2b%2b&logoColor=00599C&logoColor=white" /> <br />
   <img alt="Python" src="https://img.shields.io/badge/-Python-1338bd?style=flat&logo=python&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-0c4d06?style=flat&logo=django" /> 
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-2729c1?&logo=c%2b%2b&logoColor=00599C&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql" /> 
+  <img alt="Atom" src="https://img.shields.io/badge/-Atom-0c4d06?style=flat&logo=atom" /> 
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-d4531b?style=flat&logo=postman&logoColor=white" /> <br />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"/> 
+  <img alt="git" src="https://img.shields.io/badge/-Git-d4531b?style=flat&logo=git&logoColor=white" /> 
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-9f0000?style=flat&logo=debian" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaSript-e3c40b?&logo=JavaScript&logoColor=black" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-2b2b87?style=flat&logo=sqlite" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> 
@@ -30,10 +29,11 @@ ___
 
 <h3 align="left"> Currently learning </h3>
 <h3 align="left">
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-960505?style=flat&logo=ruby" /> 
   <img alt="React" src="https://img.shields.io/badge/-React-2b2b87?&logo=react&logoColor=white" /> 
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-333333?&logo=flask&logoColor=white" /> 
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1338bd?style=flat&logo=css&logoColor=white" /> 
-  <img alt="C#" src="https://img.shields.io/badge/-C#-2b2b87?&logo=react&logoColor=white" /> 
+  <img alt="yarn" src="https://img.shields.io/badge/-Yarn-CB3837?style=flat&logo=yarn&logoColor=white"/> 
+  <img alt="C#" src="https://img.shields.io/badge/-C#-2b2b87?&logo=c#&logoColor=white" />
 </h3>
 
 <h3 align="left">  Communities </h3>
