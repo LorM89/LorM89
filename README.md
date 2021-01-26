@@ -18,13 +18,15 @@ ___
   <img alt="C++" src="https://img.shields.io/badge/-C++-2729c1?&logo=c%2b%2b&logoColor=00599C&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql" /> 
   <img alt="Atom" src="https://img.shields.io/badge/-Atom-0c4d06?style=flat&logo=atom" /> 
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-d4531b?style=flat&logo=postman&logoColor=white" /> <br />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <br />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaSript-e3c40b?&logo=JavaScript&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-2b2b87?style=flat&logo=sqlite" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-d4531b?style=flat&logo=postman&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"/> 
   <img alt="git" src="https://img.shields.io/badge/-Git-d4531b?style=flat&logo=git&logoColor=white" /> 
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-9f0000?style=flat&logo=debian" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaSript-e3c40b?&logo=JavaScript&logoColor=black" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-2b2b87?style=flat&logo=sqlite" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> 
+  
+   
 </h3>
 
 <h3 align="left"> Currently learning </h3>
