@@ -3,31 +3,21 @@
 <h1 align="center"> LorM's Profile </h1>
 
 
-<h3 align="center"> Engineer, developer and tinkerer :zap: <br />
+<h3 align="center"> 
+    Engineer, developer and tinkerer :zap: <br />
     Believes in open source :fire: <br />
     For a free and open web :earth_asia:
+    <img style="float" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="175px"/> <br />
 </h3>
-<h2 align="right"> <img style="float" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="175px"/> </h2>
 
-### Working on building web apps and APIs <p> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/-Django-000?&logo=django" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaSript-000?&logo=JavaScript&logoColor=ddc508" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=flat&logo=sqlite" />  </p>
+### Building web apps and APIs with:   <img alt="Django" src="https://img.shields.io/badge/-Django-000?&logo=django" /> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaSript-000?&logo=JavaScript&logoColor=ddc508" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=flat&logo=sqlite" />  </p>
 
-### Learning to expand my toolset :books:
-<p> 
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" /> 
-  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?&logo=flask" /> 
-  <img alt="Ruby" src="https://img.shields.io/badge/-ruby-000?&logo=ruby" /> </p>
+### Learning to expand my toolset:   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" /> <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?&logo=flask" /> <img alt="Ruby" src="https://img.shields.io/badge/-ruby-000?&logo=ruby" /> </p>
 
 
-### Other stuff I use :wrench:
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-1338bd?style=flat&logo=python" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-13aa52?style=flat&logo=git" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=linux" />
-  <img alt="Debian" src="https://img.shields.io/badge/-Debian-000?&logo=debian" />
-  </p>
+### Other stuff I use :wrench: 
+<img alt="Python" src="https://img.shields.io/badge/-Python-1338bd?style=flat&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" /> <img alt="git" src="https://img.shields.io/badge/-Git-13aa52?style=flat&logo=git" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=linux" /> <img alt="Debian" src="https://img.shields.io/badge/-Debian-000?&logo=debian" />
+
 
 ### Communities and communication 👯
 <p>
