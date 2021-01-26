@@ -6,8 +6,8 @@
 <h3 align="center"> Engineer, developer and tinkerer :zap: <br />
     Believes in open source :fire: <br />
     For a free and open web :earth_asia:
-    <img style="float" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="175px"/> 
 </h3>
+<h2 align="right"> <img style="float" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="175px"/> </h2>
 
 ### Working on building web apps and APIs <p> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/-Django-000?&logo=django" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaSript-000?&logo=JavaScript&logoColor=ddc508" /> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /> <img alt="SQL" src="https://img.shields.io/badge/-SQL-000?style=flat&logo=sqlite" />  </p>
 
