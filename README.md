@@ -36,9 +36,8 @@
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-000?&logo=debian" />
 </h3>
 
-
-### Communities and communication 👯
-<p>
+<h3 align="center">  Communities and communication 👯 </h3>
+<h3 align="center"> 
   <img alt="github" src="https://img.shields.io/badge/github-222121?&style=flat&logo=github&logoColor=white"/>
   <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack Overflow-000?&style=flat&logo=stackoverflow"/> 
   <img alt="DevTO" src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat&logo=dev-dot-to&logoColor=white" /> 
@@ -46,4 +45,4 @@
   <img alt="Discord" src="https://img.shields.io/badge/Discord-000?&style=flat&logo=discord"/> 
   <img alt="Slack" src="https://img.shields.io/badge/Slack-000?&style=flat&logo=slack"/>
   <img alt="Asana" src="https://img.shields.io/badge/-Asana-000?&logo=asana" /> 
-</p>
+</h3>
