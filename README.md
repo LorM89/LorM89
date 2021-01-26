@@ -2,20 +2,20 @@
 
 <h1 align="center"> My Profile :zap:</h1>
 
+___
+
+<img align="center" style="float" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="30%"/> </p>
 
 
+<p> Currently working on web apps and APIs with: </p>
+<p> <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/-Django-000?&logo=django" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaSript-000?&logo=JavaScript&logoColor=ddc508" /> </p>
 
-
-<p> Currently working on web apps and APIs with:
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img alt="Django" src="https://img.shields.io/badge/-Django-000?&logo=django" /> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaSript-000?&logo=JavaScript&logoColor=ddc508" /> </p>
-
-<p> What i'm learning:
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
+<p> What i'm learning: </p>
+<p> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" /> <img alt="React" src="https://img.shields.io/badge/-React-000?&logo=react" />
 <p> Want to contribute to **Open Source, Web Development** </p>
-<img align="right" style="float" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="30%"/> </p>
 
-<p> Other technologies and tools that I use:
-<img alt="git" src="https://img.shields.io/badge/-Git-13aa52?style=flat&logo=git" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"/> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-1338bd?style=flat&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" /> <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=linux" /> <img alt="Debian" src="https://img.shields.io/badge/-Debian-000?&logo=debian" /> <img alt="Asana" src="https://img.shields.io/badge/-Asana-000?&logo=asana" />  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?&logo=flask" /> </p>
+<p> Other technologies and tools that I use: </p>
+<p> <img alt="git" src="https://img.shields.io/badge/-Git-13aa52?style=flat&logo=git" /> <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"/> <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-1338bd?style=flat&logo=python" /> <img alt="C++" src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" /> <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=linux" /> <img alt="Debian" src="https://img.shields.io/badge/-Debian-000?&logo=debian" /> <img alt="Asana" src="https://img.shields.io/badge/-Asana-000?&logo=asana" />  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?&logo=flask" /> </p>
 
 <p>
   👯 Communities: 
