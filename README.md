@@ -10,8 +10,8 @@
 
 ___
 
-<h3 align="left"> My toolset </h3>
-<h3 align="left">
+<h3 align="center"> My toolset </h3>
+<h3 align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-1338bd?style=flat&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-0c4d06?style=flat&logo=django" /> 
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />
@@ -24,13 +24,11 @@ ___
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-d4531b?style=flat&logo=postman&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"/> 
   <img alt="git" src="https://img.shields.io/badge/-Git-d4531b?style=flat&logo=git&logoColor=white" /> 
-  <img alt="Debian" src="https://img.shields.io/badge/-Debian-9f0000?style=flat&logo=debian" />
-  
-   
+  <img alt="Debian" src="https://img.shields.io/badge/-Debian-9f0000?style=flat&logo=debian" />  
 </h3>
 
-<h3 align="left"> Currently learning </h3>
-<h3 align="left">
+<h3 align="center"> Currently learning </h3>
+<h3 align="center">
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-960505?style=flat&logo=ruby" /> 
   <img alt="React" src="https://img.shields.io/badge/-React-2b2b87?&logo=react&logoColor=white" /> 
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-333333?&logo=flask&logoColor=white" /> 
@@ -38,15 +36,15 @@ ___
   <img alt="C#" src="https://img.shields.io/badge/-C#-2b2b87?&logo=c#&logoColor=white" />
 </h3>
 
-<h3 align="left">  Communities </h3>
-<h3 align="left"> 
-  <img alt="github" src="https://img.shields.io/badge/github-363635?&style=flat&logo=github&logoColor=white"/>
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack Overflow-363635?&style=flat&logo=stackoverflow&logoColor=white"/> 
-  <img alt="DevTO" src="https://img.shields.io/badge/DEVTO-363635?&style=flat&logo=dev-dot-to" /> <br />
-  <img alt="CodeWars" src="https://img.shields.io/badge/-CodeWars-363635?&style=flat&logo=codewars"/>
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-363635?&style=flat&logo=discord&logoColor=white"/> 
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-363635?&style=flat&logo=slack"/>
-  <img alt="Asana" src="https://img.shields.io/badge/-Asana-363635?style=flat&logo=asana" /> 
+<h3 align="center">  Communities </h3>
+<h3 align="center"> 
+  <img alt="github" src="https://img.shields.io/badge/github-363332?&style=flat&logo=github&logoColor=white"/>
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack Overflow-E34F26?&style=flat&logo=stackoverflow&logoColor=white"/> 
+  <img alt="DevTO" src="https://img.shields.io/badge/DEVTO-000?&style=flat&logo=dev-dot-to" />
+  <img alt="CodeWars" src="https://img.shields.io/badge/-CodeWars-cc3d0d?&style=flat&logo=codewars"/>
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-617f9d?&style=flat&logo=discord&logoColor=white"/> 
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-7d15c5?&style=flat&logo=slack"/>
+  <img alt="Asana" src="https://img.shields.io/badge/-Asana-e76932?style=flat&logo=asana" /> 
 </h3>
 
 <!----   <img alt="Linux" src="https://img.shields.io/badge/-Linux-000?&logo=linux" /> --->
