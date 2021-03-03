@@ -3,7 +3,7 @@
 
 <h2 align="center"> LorM's Profile </h2>
 <h3 align="center"> Engineer and Developer who believes in a free and open web :earth_asia: </h3>
-<h3 align="center"> Currently working on development of back-ends, APIs and web applications :zap: </h3> 
+<h3 align="center"> Currently working on mobile apps and web API development :zap: </h3> 
 <h3 align="center"> <img style="float" src="https://github.com/LorM89/LorM89/blob/main/assets/cloudyman.gif" width="180px"/> </h3>
 <br>
 
